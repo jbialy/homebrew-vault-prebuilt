@@ -1,5 +1,7 @@
 # Homebrew Vault Formula
 
+[![Build Status](https://travis-ci.com/jbialy/homebrew-vault-prebuilt.svg?branch=master)](https://travis-ci.com/jbialy/homebrew-vault-prebuilt)
+
 [Homebrew][] formulae for Vault, that uses the [pre-built releases][] rather than building it ourselves.
 
 [homebrew]: http://brew.sh/
