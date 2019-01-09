@@ -33,14 +33,14 @@ The build process for this isn't fully documented yet (See: https://github.com/h
 ## How do I install this formula?
 
 ```bash
-$ brew tap petems/vault
-$ brew install petems/vault-prebuilt/vault
+$ brew tap jbialy/vault-prebuilt
+$ brew install jbialy/vault-prebuilt/vault
 ```
 
 Or directly via the URL:
 
 ```
-brew install https://raw.githubusercontent.com/petems/homebrew-vault-prebuilt/master/Formula/vault.rb
+brew install https://raw.githubusercontent.com/jbialy/homebrew-vault-prebuilt/master/Formula/vault.rb
 ```
 
 ## Troubleshooting
